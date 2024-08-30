@@ -1,3 +1,7 @@
+---
+title: "mysql中count(name)和count(*)的区别是什么"
+date: 2024-07-31
+---
 这篇文章让我们看看MySQL中`count(*)`和`count(column_name)`有什么区别。也许你知道它们都是计算结果行数的，那么在使用的时候如何选择呢。
 
 ![image.png](https://note-1251668647.cos.ap-nanjing.myqcloud.com/20240731225646.png)
